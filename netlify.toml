@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/config.yml"
+to = "/admin/config.yml"
+status = 200

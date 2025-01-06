@@ -7,7 +7,7 @@ import netlify from '@astrojs/netlify';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://example.com',
+  site: 'https://deft-churros-b41b32.netlify.app',
   integrations: [mdx(), sitemap()],
   adapter: netlify(),
 });
